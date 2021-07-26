@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Test",
+      "description": "third attempt",
+      "userId": "104487532444687737979",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "description": "fouth attempt",
+      "userId": "104487532444687737979",
+      "id": 4
+    },
+    {
+      "title": "live",
+      "description": "obs stream",
+      "userId": "104487532444687737979",
+      "id": 5
+    }
+  ]
+}
